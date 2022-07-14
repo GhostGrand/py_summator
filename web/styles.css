@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+* {
+    font-family: Inter;
+}
+
+body {
+    text-align: center;
+    background: #202020;
+    color: white;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+input {
+    border: none;
+    width: 90%;
+    height: 40px;
+    border-radius: 100px;
+    padding-left: 10px;
+    background-color: #5c5c5c;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.number_box {
+    color: white;
+}
+
+.button {
+    width: 10%;
+    background: #727272;
+    /* margin-left: 40%; */
+    transition: ease-in-out 0.4s;
+}
+
+.button:hover {
+    width: 12%;
+    background: rgb(194, 194, 194);
+}
+
+
+
+
