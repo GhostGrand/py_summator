@@ -1,0 +1,7 @@
+# Создание виртуального окружения:
+# py -3 m venv .venv
+# .venv\scripts\activate
+# 
+# Установка пакетов:
+# pip install -r requirements.txt
+eel
